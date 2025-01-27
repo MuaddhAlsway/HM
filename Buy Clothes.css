@@ -1,0 +1,1585 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 467;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.leftSide {
+    display: flex;
+  }
+  
+  .leftSide >a {
+    margin: 0px -5px 0px 0px;
+   padding: 30px 0px 0px 25px;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+  }
+  .leftSide a:hover{
+    text-decoration: underline;
+  }
+  
+
+.leftSide .fa-ellipsis{
+    font-size: 20px;
+    margin: 7px 0px 0px 30px;
+}
+
+.Logo img{
+    width: 70px;
+    margin: -55px 0px 0px 915px;
+}
+
+.RightSide{
+    margin: 10px 0px 0px 0px;
+}
+.icon-user {
+    display: flex;
+  } 
+  .icon-user   > .fa-user {
+    margin: -100px 0px 0px 1500px;
+   padding: 30px 0px 0px 25px;
+    font-size: 20px;
+
+  }
+ .title-User {
+    display: flex;
+  }
+  
+  .title-User  > h4  {
+    margin: -100px 0px 0px 1530px;
+   padding: 30px 0px 0px 25px;
+    font-size: 14px;
+  }
+  .icon-fav{
+    display: flex;
+  }
+  
+  .icon-fav  > .fa-heart  {
+    margin: -100px 0px 0px 1590px;
+   padding: 30px 0px 0px 25px;
+    font-size: 23px;
+  }
+
+ .title-fav{
+    display: flex;
+
+ }
+  .title-fav  > h4  {
+    margin: -100px 0px 0px 1630px;
+   padding: 30px 0px 0px 25px;
+    font-size: 14px;
+  }
+
+  .icon-shop{
+    display: flex;
+  }
+  
+  .icon-shop > .fa-bag-shopping  {
+    margin: -103px 0px 0px 1710px;
+   padding: 30px 0px 0px 25px;
+    font-size: 23px;
+  }
+
+
+ .title-shop{
+    display: flex;
+
+ }
+  .title-shop  > h4  {
+    margin: -100px 0px 0px 1740px;
+   padding: 30px 0px 0px 25px;
+    font-size: 14px;
+  }
+.listHeader {
+   display: flex;
+}
+.listHeader > a{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    margin: 30px -650px 0px 680px;
+}
+.listHeader a:hover{
+    text-decoration: underline;
+}
+.Search  {
+    display: flex;
+
+}
+
+.Search > .icon-Search, .Search-Input{
+    margin: -30px -1585px 0px 1600px;
+   
+
+}
+.icon-Search .fa-magnifying-glass{
+    font-size: 20px;
+}
+.Search-Input input{
+    border: none;
+}
+.Hr-Search{
+    margin: -8px 0px 0px 1380px;
+}
+.Hr-Search .Hr-Underline{
+    width: 280px;
+    border: solid 1px;
+}
+
+
+.ListStore{
+    margin: 50px 0px 0px 20px;
+}
+.HighlightMan{
+    margin: 10px 0px 0px 850px;
+
+}
+.HighlightMan h4{
+    font-size: 10px;
+    color: black;
+}
+.HighlightMan h4{
+    color: black;
+}
+.HighlightMan span{
+    font-size: 13px;
+    font-weight: 600;
+    color: red;
+}
+
+.HighlightMan a{
+    text-decoration: none;
+    color: black;
+}
+.HighlightMan a:hover{
+    color: red;
+}
+
+.BuyProcess{
+  margin: 60px 0px 0px 1250px;
+  width: 650px;
+  height: 450px;
+  position: sticky;
+  top: 10px;
+}
+.Title h2{
+  font-size:  14px;
+  padding: 25px 0px 0px 15px;
+}
+.iconLove {
+  margin:-30px 0px 0px 570px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+  }
+  
+.Price{
+  margin: -15px 0px 0px 15px;
+}
+.Price h4{
+  font-size: 15px;
+}
+
+.Highlight h4{
+  margin: 0px 0px 0px 15px;
+  font-size: 12px;
+}
+.imgT-Shirt{
+  display: flex;
+  flex-wrap: nowrap;
+
+}
+.imgT-Shirt > div{
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px -15px 0px 15px;
+}
+
+.imgT-Shirt .img1{
+  background-image: url(Clothes/First\ small\ T-shirt.webp);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 100px;
+  background-size: cover;
+
+}
+.imgT-Shirt .img2{
+  background-image: url(Clothes/Second\ T-Shirt\ small.webp);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 100px;
+  background-size: cover;
+  border: 1px black solid;
+}
+.imgT-Shirt .img3{
+  background-image: url(Clothes/Third\ T-Shirt\ small.webp);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 100px;
+  background-size: cover;
+}
+.SizeT-Shirt{
+  margin: 0px 0px 0px 15px;
+}
+
+.titleSizeT-Shirt h4{
+  font-size: 12px;
+}
+.fewPieces{
+  margin: -35px 0px 0px 390px;
+}
+.fewPieces h4{
+  font-size: 12px;
+  
+}
+.fewPieces .fa-circle{
+  font-size: 8px;
+  color: #e50010;
+}
+.buttonSizeT-Shirt{
+  margin: -10px 0px 0px 0px;
+}
+.buttonSizeT-Shirt button{
+  padding: 12px  35px;
+  background: #faf9f8;
+  border: 1px #d0d0d0 solid;
+}
+.buttonSizeT-Shirt .fa-circle{
+  color: #e50010;
+  font-size: 8px;
+}
+
+.Size{
+  margin: 20px 0px 0px 0px;
+}
+
+.Size a{
+  font-size: 12px;
+  color: black;
+}
+.Size .fa-ruler{
+  font-size: 15px;
+}
+
+.AddBug{
+  margin: 15px 0px 0px 0px;
+}
+
+.AddBug button{
+  padding: 15px 220px;
+  background: black;
+  color: white;
+}
+
+
+.FindStore{
+  margin: 15px 0px 0px 0px;
+}
+.FindStore a{
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+}
+.Notice{
+  margin: 15px 0px 0px 0px;
+}
+.Notice a{
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+}
+
+.titleDelivery h4:hover{
+  color: rgba(110, 110, 110, 0.61);
+}
+
+
+.HR1{
+  margin: 50px 0px 0px -50px;
+}
+.HR1 .HR-Del{
+  width: 600px;
+  color: white;
+}
+.Describtion h4{
+  margin: 10px 0px 0px 0px;
+}
+
+.HR2{
+  margin: 10px 0px 0px -50px;
+}
+.HR2 .HR-Del{
+  width: 600px;
+  color: white;
+
+}
+.Metrial h4{
+  margin: 10px 0px 50px 0px;
+}
+.Gallary-img{
+  width: 1200px;
+  height: 2200px;
+  margin: -480px 0px 100px 0px;
+}
+
+.Gallary-img .img1{
+  margin: 0px 0px 0px 15px;
+  background-image: url(Clothes/Gallary\ Top\ -\ Left.jpg);
+  background-size: cover;
+  width: 605px;
+  height: 800px;
+}
+.Gallary-img .img2{
+  margin: -800px 0px 0px 625px;
+  background-image: url(Clothes/Gallary\ Top\ -\ Right.webp);
+  background-size: cover;
+  width: 605px;
+  height: 800px;
+}
+.Gallary-img .img3{
+  margin: 0px 0px 0px 15px;
+  background-image: url(Clothes/Gallary\ Middle\ Left.webp);
+  background-size: cover;
+  width: 605px;
+  height: 800px;
+}
+.Gallary-img .img4{
+  margin: -800px 0px 0px 625px;
+  background-image: url(Clothes/Gallary\ Middle\ Right.webp);
+  background-size: cover;
+  width: 605px;
+  height: 800px;
+}
+.Gallary-img .img5{
+  margin: 0px 0px 0px 325px;
+  background-image: url(Clothes/Gallary\ Footer\ Middle.webp);
+  background-size: cover;
+  width: 605px;
+  height: 800px;
+}
+.StyleWith{
+  margin: 450px 0px 0px 380px;
+}
+.TitleStyleWith h4{
+  font-size: 20px;
+}
+.TitleStyleWith{
+  margin: 0px 0px -20px 0px;
+}
+.Gallary1{
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin: 15px 0px 0px -12px;
+  width: 1070px;
+  
+}
+
+.Gallary1:hover{
+  overflow-x: scroll;
+  scrollbar-color: transparent transparent ;  
+
+}
+.img1-Container{
+  margin: 0px 0px 50px 0px;
+}
+.img1-Container .img1{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Wight\ Shoes.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img1-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img1-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img1-Container a:hover{
+  text-decoration: underline;
+}
+.price-img1-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img1-Container h4{
+  font-size: 12px;
+}
+
+.img2-Container{
+  margin: -480px 0px 50px 270px;
+}
+.img2-Container .img2{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Relaxed\ Fit\ BLend\ Shorts.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img2-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img2-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img2-Container a:hover{
+  text-decoration: underline;
+}
+.price-img2-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img2-Container h4{
+  font-size: 12px;
+}
+
+
+.img3-Container{
+  margin: -480px 0px 50px 540px;
+}
+.img3-Container .img3{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Relaxed\ Jeans.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img3-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img3-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img3-Container a:hover{
+  text-decoration: underline;
+}
+.price-img3-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img3-Container h4{
+  font-size: 12px;
+}
+.Arrived-img3-Container{
+  margin: -15px 0px 0px 0px;
+}
+.Arrived-img3-Container h4{
+  font-size: 12px;
+}
+
+.img4-Container{
+  margin: -500px 0px 50px 810px;
+}
+.img4-Container .img4{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Slim\ Fit\ Ribbed\ vest\ top.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img4-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img4-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img4-Container a:hover{
+  text-decoration: underline;
+}
+.price-img4-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img4-Container h4{
+  font-size: 12px;
+}
+.Arrived-img4-Container{
+  margin: -15px 0px 0px 0px;
+}
+.Arrived-img4-Container h4{
+  font-size: 12px;
+}
+
+.img5-Container{
+  margin: -485px 0px 50px 1080px;
+  width: 180px;
+}
+.img5-Container .img5{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/10-Pack\ short\ cotton\ trunks.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img5-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img5-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img5-Container a:hover{
+  text-decoration: underline;
+}
+.price-img5-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img5-Container h4{
+  font-size: 12px;
+}
+.Arrived-img5-Container{
+  margin: -15px 0px 0px 0px;
+}
+.Arrived-img5-Container h4{
+  font-size: 12px;
+}
+
+
+.img6-Container{
+  margin: -500px 0px 50px 1350px;
+  width: 180px;
+}
+.img6-Container .img6{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Regular\ fit\ linen\ trousers.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img6-Container{
+  margin: -20px 0px 0px 0px;
+}
+.Name-img6-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img6-Container a:hover{
+  text-decoration: underline;
+}
+.price-img6-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img6-Container h4{
+  font-size: 12px;
+}
+.Arrived-img6-Container{
+  margin: 0px 0px 0px 0px;
+}
+.Arrived-img6-Container h4{
+  font-size: 12px;
+}
+
+.img7-Container{
+  margin: -500px 0px 50px 1620px;
+  width: 180px;
+}
+.img7-Container .img7{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Elasticated\ fabric\ belt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img7-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img7-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img7-Container a:hover{
+  text-decoration: underline;
+}
+.price-img7-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img7-Container h4{
+  font-size: 12px;
+}
+.Arrived-img7-Container{
+  margin: 0px 0px 0px 0px;
+}
+.Arrived-img7-Container h4{
+  font-size: 12px;
+}
+
+.img8-Container{
+  margin: -482px 0px 50px 1890px;
+  width: 180px;
+}
+.img8-Container .img8{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/5-Pack\ slim\ fit\ V-neck\ T-shirt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img8-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img8-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img8-Container a:hover{
+  text-decoration: underline;
+}
+.price-img8-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img8-Container h4{
+  font-size: 12px;
+}
+
+.img9-Container{
+  margin: -482px 0px 50px 2160px;
+  width: 180px;
+}
+.img9-Container .img9{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Sunglasses\ img\ 9.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img9-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img9-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img9-Container a:hover{
+  text-decoration: underline;
+}
+.price-img9-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img9-Container h4{
+  font-size: 12px;
+}
+
+
+.img10-Container{
+  margin: -482px 0px 50px 2430px;
+  width: 180px;
+}
+.img10-Container .img10{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Small\ Shoulder\ bag\ img\ 10.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img10-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img10-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img10-Container a:hover{
+  text-decoration: underline;
+}
+.price-img10-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img10-Container h4{
+  font-size: 12px;
+}
+
+.img11-Container{
+  margin: -482px 0px 50px 2700px;
+  width: 180px;
+}
+.img11-Container .img11{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Leather\ mules\ img\ 11.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img11-Container{
+  margin: 0px 0px 0px 0px;
+}
+.Name-img11-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img11-Container a:hover{
+  text-decoration: underline;
+}
+.price-img11-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img11-Container h4{
+  font-size: 12px;
+}
+.price-img11-Container h4 span{
+  color: red;
+}
+.price-img11-Container h4 Del{
+font-size: 10;}
+.Arrived-img11-Container{
+  margin: 0px 0px -20px 0px;
+}
+.Arrived-img11-Container h4{
+  font-size: 12px;
+}
+
+.img12-Container{
+  margin: -465px 0px 50px 270px;
+  width: 180px;
+}
+.img12-Container .img12{
+  width: 260px;
+  height: 400px;
+  background-image: url(StyleWith/Relaxed\ Jeans\ img\ 12.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img12-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img12-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img12-Container a:hover{
+  text-decoration: underline;
+}
+.price-img12-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img12-Container h4{
+  font-size: 12px;
+}
+
+
+
+.img101-Container{
+  margin: 15px 0px 50px 0px;
+}
+.img101-Container .img101{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Regualar\ Fit\ Textured.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img101-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img101-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img101-Container a:hover{
+  text-decoration: underline;
+}
+.price-img101-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img101-Container h4{
+  font-size: 12px;
+}
+
+.img102-Container{
+  margin: -480px 0px 50px 270px;
+}
+.img102-Container .img102{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Regular\ Fit\ Textured\ resort\ shirt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img102-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img102-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img102-Container a:hover{
+  text-decoration: underline;
+}
+.price-img102-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img102-Container h4{
+  font-size: 12px;
+}
+
+
+.img103-Container{
+  margin: -480px 0px 50px 540px;
+}
+.img103-Container .img103{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Regualar\ Fit\ Waffled\ T-shirt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img103-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img103-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img103-Container a:hover{
+  text-decoration: underline;
+}
+.price-img103-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img103-Container h4{
+  font-size: 12px;
+}
+.Arrived-img103-Container{
+  margin: -15px 0px 0px 0px;
+}
+.Arrived-img103-Container h4{
+  font-size: 12px;
+}
+
+.img104-Container{
+  margin: -500px 0px 50px 810px;
+}
+.img104-Container .img104{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Regular\ Fit\ Textured\ resort\ shirt\ BLACK.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img104-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img104-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img104-Container a:hover{
+  text-decoration: underline;
+}
+.price-img104-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img104-Container h4{
+  font-size: 12px;
+}
+.Arrived-img104-Container{
+  margin: -15px 0px 0px 0px;
+}
+.Arrived-img104-Container h4{
+  font-size: 12px;
+}
+
+.img105-Container{
+  margin: -485px 0px 50px 1080px;
+  width: 180px;
+}
+.img105-Container .img105{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Regualar\ Fit\ Twill\ overshirt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img105-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img105-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img105-Container a:hover{
+  text-decoration: underline;
+}
+.price-img105-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img105-Container h4{
+  font-size: 12px;
+}
+.Arrived-img105-Container{
+  margin: -15px 0px 0px 0px;
+}
+.Arrived-img105-Container h4{
+  font-size: 12px;
+}
+
+
+.img106-Container{
+  margin: -500px 0px 50px 1350px;
+  width: 180px;
+}
+.img106-Container .img106{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Loose\ Fit\ Textured\ shirt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img106-Container{
+  margin: -20px 0px 0px 0px;
+}
+.Name-img106-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img106-Container a:hover{
+  text-decoration: underline;
+}
+.price-img106-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img106-Container h4{
+  font-size: 12px;
+}
+.Arrived-img106-Container{
+  margin: 0px 0px 0px 0px;
+}
+.Arrived-img106-Container h4{
+  font-size: 12px;
+}
+
+.img107-Container{
+  margin: -500px 0px 50px 1620px;
+  width: 180px;
+}
+.img107-Container .img107{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Slim\ fit\ Polo\ shirt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img107-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img107-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img107-Container a:hover{
+  text-decoration: underline;
+}
+.price-img107-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img107-Container h4{
+  font-size: 12px;
+}
+.Arrived-img107-Container{
+  margin: 0px 0px 0px 0px;
+}
+.Arrived-img107-Container h4{
+  font-size: 12px;
+}
+
+.img108-Container{
+  margin: -482px 0px 50px 1890px;
+  width: 180px;
+}
+.img108-Container .img108{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Slim\ fit\ Polo\ shirt\ black.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img108-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img108-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img108-Container a:hover{
+  text-decoration: underline;
+}
+.price-img108-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img108-Container h4{
+  font-size: 12px;
+}
+
+.img109-Container{
+  margin: -482px 0px 50px 2160px;
+  width: 180px;
+}
+.img109-Container .img109{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Relaxed\ Fit\ Worker\ trousers\ img\ 8.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img109-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img109-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img109-Container a:hover{
+  text-decoration: underline;
+}
+.price-img109-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img109-Container h4{
+  font-size: 12px;
+}
+
+
+.img110-Container{
+  margin: -482px 0px 50px 2430px;
+  width: 180px;
+}
+.img110-Container .img110{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Regualar\ Fit\ Waffled\ T-shirt.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img110-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img110-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img110-Container a:hover{
+  text-decoration: underline;
+}
+.price-img110-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img110-Container h4{
+  font-size: 12px;
+}
+
+.img111-Container{
+  margin: -482px 0px 50px 2700px;
+  width: 180px;
+}
+.img111-Container .img111{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Relaxed\ Fit\ Worker\ trousers\ White.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img111-Container{
+  margin: 0px 0px 0px 0px;
+}
+.Name-img111-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img111-Container a:hover{
+  text-decoration: underline;
+}
+.price-img111-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img111-Container h4{
+  font-size: 12px;
+}
+
+
+.Arrived-img111-Container{
+  margin: 0px 0px -20px 0px;
+}
+.Arrived-img111-Container h4{
+  font-size: 12px;
+}
+
+.img112-Container{
+  margin: -465px 0px 50px 270px;
+  width: 180px;
+}
+.img112-Container .img112{
+  width: 260px;
+  height: 400px;
+  background-image: url(OtherBought/Regular\ Fit\ Textured\ resort\ shirt\ BLACK.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.iconLove {
+  margin: -45px 0px 0px 220px;
+}
+
+.iconLove .fa-heart{
+  font-size: 25px;
+}
+.iconLove .fa-heart:hover{
+  color: red;
+}
+
+
+.Name-img112-Container{
+  margin: 10px 0px 0px 0px;
+}
+.Name-img112-Container a{
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Name-img112-Container a:hover{
+  text-decoration: underline;
+}
+.price-img112-Container{
+  margin: -15px 0px 0px 0px;
+}
+.price-img112-Container h4{
+  font-size: 12px;
+}
+
+.Footer{
+  width:1925px;
+  height: 550px;
+  background:#e4e4e4;
+  margin: 30px 0px -10px -15px;
+}
+
+.Title-Footer{
+  display: flex;
+}
+
+.Title-Footer > h4{
+  margin: px -200px 0px 430px;
+}
+
+.Shop-Footer {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 0px 0px 500px;
+}
+.Shop-Footer h4{
+  padding: 50px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
+}
+.Shop-Footer >  a {
+  padding: 5px 0px 0px 0px;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Shop-Footer >  a:hover {
+  
+  
+  text-decoration: underline;
+}
+
+.Shop-Footer1 {
+  display: flex;
+  flex-direction: column;
+  margin: -215px 0px 0px 700px;
+}
+.Shop-Footer1 h4{
+  padding: 50px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
+}
+.Shop-Footer1 >  a {
+  padding: 5px 0px 0px 0px;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Shop-Footer1 >  a:hover {
+  
+  
+  text-decoration: underline;
+}
+.Shop-Footer2 {
+  display: flex;
+  flex-direction: column;
+  margin: -215px 0px 0px 950px;
+}
+.Shop-Footer2 h4{
+  padding: 50px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
+}
+.Shop-Footer2 >  a {
+  padding: 5px 0px 0px 0px;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Shop-Footer2 >  a:hover {
+  
+  
+  text-decoration: underline;
+}
+
+.Shop-Footer3 {
+  display: flex;
+  flex-direction: column;
+  margin: -280px 0px 0px 1200px;
+}
+.Shop-Footer3 h4{
+  padding: 50px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
+}
+.Shop-Footer3 >  a {
+  padding: 5px 0px 0px 0px;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+.Shop-Footer3 >  a:hover {
+  
+  
+  text-decoration: underline;
+}
+.Shop-Footer3 .A1 {
+ padding: 10px 0px 0px 0px;
+  font-size: 15px;
+}
+
+.icon-SocialMedia {
+  display: flex;
+  margin: 180px 0px 0px 860px;
+  
+}
+.icon-SocialMedia > a {
+  padding: 0px 0px 0px 20px;
+  font-size: 20px;
+}
+
+.copyWriting {
+  margin: 10px 0px 0px 740px;
+}
+
+.copyWriting h4{
+  font-size: 10px;
+}
+
+
+.logo{
+  margin: 0px 0px 0px 950px;
+}
+.logo img{
+  width: 45px;
+}
+.chooseLocation{
+  margin: -10px 0px 0px 905px;
+}
+.chooseLocation h4{
+  font-size: 15px;
+}
