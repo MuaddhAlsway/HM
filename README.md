@@ -1,4 +1,7 @@
-#  🚀 *Project Update: H&M Front-End Study*
+# 🚀 *Project Update: H&M Front-End Study*
+
+<img width="100%" alt="First" src="https://github.com/user-attachments/assets/707ccd88-f853-4299-b26e-5c44053687b8" />
+
 
 ## 💡 Overview Report
 This project is a **static web design** for an **H&M-themed website** built using **HTML & CSS only** (without JavaScript). It replicates the layout and design elements of H&M's online store, focusing on styling and user interface design.
@@ -15,35 +18,32 @@ This project is a **static web design** for an **H&M-themed website** built usin
 ```
 HM/
 ├── 📁 Clothes/
-│   ├── Clothes-img/
-│   │   ├── 📄 product1.jpg
-│   │   ├── 📄 product2.jpg
-│   │   └── ...
-│   ├── 🎨 Clothes.css
-│   └── 📄Clothes.html
+│   ├── 📄 product1.html        # Individual product page for Product 1
+│   ├── 📄  product2.html       # Individual product page for Product 2
+│   └── ...                      # Additional product pages
 ├── 📁 Image/
-│   ├── 📁 img/
-│   │   ├── banner.jpg
-│   │   ├── logo.png
-│   │   └── ...
+│   ├── 📄 logo.png             # Website logo
+│   ├── 📄 banner.jpg           # Homepage banner image
+│   └── ...                      # Additional images used across the site
 ├── 📁 OtherBought/
-│   ├── OtherBought.css
-│   └── OtherBought.html
+│   ├── 📄 accessory1.html      # Page for an accessory item
+│   ├── 📄 accessory2.html      # Page for another accessory item
+│   └── ...                     # Additional accessory pages
 ├── 📁 Store/
-│   ├── 📁 store-img/
-│   │   ├── item1.jpg
-│   │   ├── item2.jpg
-│   │   └── ...
+│   ├── 📄 men.html             # Men's clothing section
+│   ├── 📄 women.html           # Women's clothing section
+│   └── 📄 kids.html            # Kids' clothing section
 ├── 📁 StyleWith/
-│   ├── StyleWith.css
-│   └── StyleWith.html
-├── 🎨 Buy Clothes.css
-├── 📄 Buy Clothes.html
-├── 🎨 HomePage.css
-├── 📄 HomePage.html
-├── 🎨 StoreMan.css
-├── 📄 StoreMan.html
-└── README.md
+│   ├──📄 outfit1.html         # Suggested outfit combination 1
+│   ├── 📄outfit2.html         # Suggested outfit combination 2
+│   └── ...                    # Additional outfit suggestions
+├── 🎨 Buy Clothes.css        # Stylesheet for the purchase page
+├── 📄 Buy Clothes.html       # Purchase page
+├── 🎨 HomePage.css           # Stylesheet for the homepage
+├── 📄HomePage.html           # Main homepage
+├── 🎨 StoreMan.css           # Stylesheet for the men's store page
+├── 📄StoreMan.html           # Men's store page
+└── README.md                 # Project documentation
 
 ```
 
